@@ -16,6 +16,10 @@ Hoja 1
 
 Hoja 2
 
+Coordenadas x, y, z: UTM.
+	x
+	y
+	z: altura?
 
 
 
