@@ -1,6 +1,9 @@
 # naranjo
 
-# Contenidos Carlos_Naranjo_Datos_Agus.xlsx
+### naranjas_crudas.xlsx
+Dattos crudos, tal y como me los envió Adri. Sólo lo mantengo para ir corroborando con las nuevas versiones, ya que Carlos ha introducido algunos cambios que no quedan rastreables.
+
+### Carlos_Naranjo_Datos_Agus.xlsx
 
 Hoja 1: "Carga de epífitos" Hoja para análisis. Datos de carga de epífitos por árbol (sólo forófitos)
 Hoja 2: "Características del host" Hoja para análisis. Datos de características del host (tanto forófitos como árboles sin carga)
