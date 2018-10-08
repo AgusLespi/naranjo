@@ -16,10 +16,17 @@ Hoja 1
 
 Hoja 2
 
+Altura (m): distancia entre el ápice del árbol y el suelo.
+En árboles inclinados sobre pendientes, usaban un nivel para tener una idea de la inclinación del suelo para obtener la distancia real al suelo (y no a la horizontal). En algunos casos los árboles estaban inclinados sobre pendientes mayores a 51%.
+
+
 Coordenadas x, y, z: UTM.
-	x
-	y
-	z: altura?
+	x: longitud
+	y: latitud
+	z: altura en m.
+	Voy a cambiar el código para que la latitud sea X y la longitud sea Y hoy (8/10/2018).
+
+
 
 
 
